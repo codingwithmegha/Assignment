@@ -12,7 +12,7 @@ class AdvanceArithmetic {
 		    	  System.out.println(" "+i);
 		    	  
 	//return divisor_sum(0);
-		    	  j=j+1;}}
+		    	  j=j+i;}}
 		      System.out.println("sum of divisor is:"+j);
 		      }}}
 class MyCalculator extends AdvanceArithmetic {
